@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme by cloning the repo:
 
-    $ git clone https://github.com/ermesonsampaio/terminator.git
+    $ git clone https://github.com/getomni/terminator.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/ermesonsampaio/terminator/archive/main.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/getomni/terminator/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
