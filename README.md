@@ -32,7 +32,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/ermesonsampaio/terminator/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/terminator/graphs/contributors).
 
 | [![Ermeson Sampaio](https://github.com/ermesonsampaio.png?size=100)](https://github.com/ermesonsampaio) |
 | ------------------------------------------------------------------------------------------------ |
